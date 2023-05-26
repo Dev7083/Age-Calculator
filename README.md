@@ -1,6 +1,6 @@
 # Age-Calculator
 
-A Simple Calculator Using HTML< CSS and JS.
+A Simple Calculator Using HTML, CSS and JS.
 
 
 ## Table of contents
