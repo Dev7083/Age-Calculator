@@ -17,7 +17,7 @@ A Simple Calculator Using HTML< CSS and JS.
 * https://dev7083.github.io/Age-Calculator/
 
 ## Illustration
-![home](https://user-images.githubusercontent.com/113914000/212254387-ec2119c5-dfbd-41f2-9459-520b35e0324d.jpg)
+![home](https://github.com/Dev7083/Age-Calculator/assets/113914000/04ad188a-85e6-48eb-98ab-419c5a71f1fc)
 
 ### Dependencies
 
